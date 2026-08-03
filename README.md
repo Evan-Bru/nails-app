@@ -1,4 +1,4 @@
-# Esmalte
+# Nails
 
 App de agendamento para manicure, em Flutter, com arquitetura **MVP**
 (Model–View–Presenter).
